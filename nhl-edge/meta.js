@@ -1,0 +1,1 @@
+window.NHL_EDGE_META={"generated":"2026-10-17T13:02:13","slateDate":"2026-10-17","season":20262027,"xgModel":"boosted","counts":{"games":14,"corpusGames":4312,"skaters":567,"goalies":59},"freshness":{"ok":true,"asof":"2026-10-17","from":"2026-10-14","checked":15,"missing":[],"allowStale":false}};
